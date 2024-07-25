@@ -22,7 +22,7 @@ extern const HAL& hal;
 */   
 
 // Uncomment line below in order to use non Standard channel mapping
-#define RC_MAPPING RC_MAP_MULTIWII 4
+#define RC_MAPPING RC_MAP_MULTIWII
 /*
 	RC_MAP_STANDARD 1   // DEFAULT!!!
 	RC_MAP_GRAUPNER 2
